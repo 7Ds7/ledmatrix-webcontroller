@@ -88,7 +88,7 @@ void GetString(char *buf, int bufsize){
 
 void establishContact() {
   while (Serial.available() <= 0) {
-  //Serial.println('A');   // send a capital A
+    //Serial.println('A');   // send a capital A
     delay(300);
   }
 }
