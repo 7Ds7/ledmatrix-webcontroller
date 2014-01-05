@@ -39,5 +39,5 @@ Thumbs.db
 # IDE FILES #
 ############
 sftp-config.json
-.sublime-project
-.sublime-workspace
+*.sublime-project
+*.sublime-workspace
