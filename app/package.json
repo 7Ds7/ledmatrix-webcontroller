@@ -6,7 +6,7 @@
   "dependencies": {
     "serialport": "1.0.8",
     "socket.io": "0.8.7",
-    "forever": "0.10.0"
+	"forever": "0.10.0"
   },
   "devDependencies": { },
   "engine": "node >= 0.8.19"
