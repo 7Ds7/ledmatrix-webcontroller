@@ -4,7 +4,7 @@
   "author": "|Ds| <admin@binaryunit.com>",
   "version": "0.0.1",
   "dependencies": {
-    "serialport": "1.0.8",
+    "serialport": "1.4.9",
     "socket.io": "0.8.7",
 	"forever": "0.10.0"
   },
