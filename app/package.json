@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "dependencies": {
     "serialport": "1.4.9",
-    "socket.io": "0.8.7",
+    "socket.io": "2.3.0",
 	"forever": "0.10.0"
   },
   "devDependencies": { },
